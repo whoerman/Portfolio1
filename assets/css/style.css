@@ -1,0 +1,14 @@
+/* CSS file for Portfolio project*/
+
+body {
+    position: relative;
+    width: 960px;
+}
+
+h1 {
+    color: #4aaaa5;
+    text-align: left;
+    padding-left: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
