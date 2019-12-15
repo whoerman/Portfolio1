@@ -113,3 +113,35 @@ p {
   color: #777777;
   
 }
+
+/* Formating the contact form */
+
+form {
+  padding: 20px;
+}
+
+#name {
+  width: 100%;
+  }
+
+#email {
+  width: 100%;
+
+}
+
+#message {
+  height: 200pxpx;
+  width: 100%;
+  overflow: auto;
+}
+
+#submit {
+  color: #ffffff;
+  background-color: #4aaaa5;
+  height: fit-content;
+  width: fit-content;
+  padding: 10px;
+  border: 0px;
+
+}
+
