@@ -20,6 +20,7 @@ div.headbuttons {
 div.content {
   width:960px;
   margin: auto;
+  margin-top: 20px;
   border: 3px solid #73AD21;
   align-content: center;
   overflow: auto;
@@ -35,13 +36,25 @@ div.footer {
   
 }
 
-
 h1 {
     color: #4aaaa5;
     text-align: left;
     padding-left: 20px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 30px;
+}
+
+#nametag {  
+  color: #ffffff;
+  background-color: #4aaaa5;
+  height: fit-content;
+  width: fit-content;
+  padding: 20px;
+  margin-left: 0px;
+  margin-top: 0px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 20px;
+
 }
 
 hr {
