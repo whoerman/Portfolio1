@@ -6,8 +6,7 @@ html {
 
 body {
   background-color: #cccccc;
-  background-image: url("assets/images/criss-cross.png");
-  background-repeat: repeat-x;
+  background-image: url("criss-cross.png");
   }
 
 /* Defining the elements of the header*/
